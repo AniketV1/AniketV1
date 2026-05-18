@@ -104,11 +104,11 @@ I'm currently navigating the world of **Data Structures & Algorithms**, explorin
 ## 🤝 Connect With Me
 
 <div align="center">
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="aniketvajire23@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/aniketv1/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
